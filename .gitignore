@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node / React
+node_modules/
+npm-debug.log
+yarn-error.log
+build/
+dist/
+
+# Laravel / PHP
+vendor/
+.env
+.env.*
+storage/*.key
+
+# Flutter
+build/
+.dart_tool/
+
+# OS
+.DS_Store
+Thumbs.db
+
+videos/
+*.mp4
